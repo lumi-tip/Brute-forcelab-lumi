@@ -34,7 +34,7 @@ ssh usuario@192.168.1.100
 
 3. **Paso 3**: Escalar privilegios
    - Encontrar vulnerabilidades
-   - Obtener acceso root
+   - Obtener acceso root a
 
 ### Notas Importantes
 

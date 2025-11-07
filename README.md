@@ -60,7 +60,7 @@ Follow these instructions to get started:
 ## Flag #2
 
 - 📁 Location: in a restricted system area  
-- 🔑 Requires: escalating privileges to gain administrator access
+- 🔑 Requires: escalating privileges to gain administrator accessss
 
 ## Recommended Tools
 

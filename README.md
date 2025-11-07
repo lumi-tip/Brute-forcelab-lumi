@@ -7,7 +7,7 @@ In this great lab, you will practice exploration techniques, brute force attacks
 - Execution of brute force attacks
 - Privilege escalation in Linux operating systems
 
-## 🌱 How to Start This Labubu
+## 🌱 How to Start This Laboratory
 
 Follow these instructions to get started:
 

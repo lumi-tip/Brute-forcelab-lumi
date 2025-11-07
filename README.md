@@ -1,4 +1,4 @@
-# Brute Force Against an FTP SERVER
+# Brute Force AGAINST an FTP SERVER
 
 In this great lab, you will practice exploration techniques, brute force attacks, and privilege escalation in a controlled environment. Your mission is to access an FTP server, discover weak credentials, and obtain two hidden flags. In this lab, you will learn:
 
